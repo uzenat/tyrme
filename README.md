@@ -1,5 +1,11 @@
 # Mode d'emploi
 
+Présentation
+==
+
+Tyrme et le nom d'une petite machine virtuelle developpé en OCaml
+
+
 La compilation
 ==
 
